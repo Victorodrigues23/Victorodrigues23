@@ -1,4 +1,4 @@
-### I am Victor Rodrigues Frontend Developer 👋
+### I am Victor Rodrigues Web Developer 👋
 <hr>
 <strong>Sobre Mim</strong>
 
